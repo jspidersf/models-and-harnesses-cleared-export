@@ -20,4 +20,3 @@ Never publish raw intake, session history, credentials, private identifiers, Cit
 3. Review the exact public diff, then commit and push.
 4. The work machine pulls this repository and integrates the useful content into its own canonical documents.
 5. Record the destination commit; do not merge or connect the source repositories.
-
