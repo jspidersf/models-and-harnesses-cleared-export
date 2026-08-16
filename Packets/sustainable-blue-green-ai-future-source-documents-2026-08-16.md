@@ -1,10 +1,10 @@
 # Research Packet: Sustainable Blue-Green AI Future — Full Source Documents
 
 - **Template version:** 2026-08-05
-- **Status:** DRAFT
+- **Status:** CLEARED FOR PUBLIC DISCLOSURE
 - **Direction:** personal → work
-- **Clearance date:**
-- **Cleared by:**
+- **Clearance date:** 2026-08-16
+- **Cleared by:** Jeremy Pollock
 - **Research period covered:** 2015 through 2026-08-16
 - **Last verified:** mixed; transmission correction verified 2026-08-16, document-level verification logs and source dates preserved below
 - **Originating private repository or repositories:** `jspidersf/models-and-harnesses`
@@ -882,7 +882,7 @@ The broader strategic brief was not bundled because most of it is outside this t
 
 ## Closeout
 
-- **Public export commit:** pending disclosure approval; no commit or push performed
+- **Public export commit:** `662dfc1307edab3168ed9c7970ce800d45cfcbae` (initial publication; clearance-metadata correction pending)
 - **Destination content commit or commits:** pending separate integration review and approval
 - **Ledger or manifest commit:** pending separate integration review and approval
 - **Unresolved differences:** work-side LBNL energy-share figures unavailable; work-side treatment of Humboldt capacity and Sunol status not directly inspectable; source documents retain visible corrected historical claims
@@ -895,4 +895,4 @@ The broader strategic brief was not bundled because most of it is outside this t
 - [x] Every decisive claim is traceable to a public source or explicitly identified reasoning.
 - [x] Raw intake and private, restricted, or otherwise ineligible context were excluded.
 - [x] Safe source and destination commits are recorded.
-- [ ] Jeremy reviewed the exact public diff and affirmatively cleared it for public disclosure.
+- [x] Jeremy reviewed the exact public diff and affirmatively cleared it for public disclosure.
